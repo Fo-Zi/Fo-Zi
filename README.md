@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on Open source projects related to Embedded development 
 
-- 💬 Talk to me about Embedded Systems, Firmware, RTOS, DSP, Linux, Software Engineering, Design patterns,  
+- 💬 Talk to me about Embedded Systems, Firmware, RTOS, DSP, Robotics, Linux, Software Engineering, Design patterns,  
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/Fo-Zi?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
