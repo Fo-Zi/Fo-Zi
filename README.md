@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on Finishing my degree as an Electronic Engineer, working as a tutor for a project related to electronic waste, and coding in my free time.
 
-- 🌱 I’m currently learning Testing theory, TDD for embedded development, Rust basics, Linux kernel internals 
+- 🌱 I’m currently learning Embeddedd Linux and good practices & Design patterns for embedded
 
 - 👯 I’m looking to collaborate on Open source projects related to Embedded development 
 
