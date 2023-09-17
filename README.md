@@ -16,7 +16,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on Finishing my degree as an Electronic Engineer, working as a tutor for a project related to electronic waste, and coding in my free time.
+- 🔭 I’m currently working as an Embedded Software engineer, rn with an Embedded Linux product. And finishing my degree in the meantime.
 
 - 🌱 I’m currently learning Embeddedd Linux and good practices & Design patterns for embedded
 
