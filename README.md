@@ -16,13 +16,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working as an Embedded Software engineer, rn with an Embedded Linux product. And finishing my degree in the meantime.
+- 🔭 I’m currently working as an Embedded Software engineer, focused on Embedded Linux and some collaborator-role projects for RTOS and Bare Metal.
 
-- 🌱 I’m currently learning Embeddedd Linux and good practices & Design patterns for embedded
+- 🌱 I’m currently learning tools like Yocto, Linux drivers programming, Modern C++(+17), Rust, and SOLID practices.
 
 - 👯 I’m looking to collaborate on Open source projects related to Embedded development 
 
-- 💬 Talk to me about Embedded Systems, Firmware, RTOS, DSP, Robotics, Linux, Software Engineering, Design patterns,  
+- 💬 Talk to me about Embedded Systems, Firmware, RTOS, DSP, Robotics, Linux, Software Engineering, Design patterns, etc!
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/Fo-Zi?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
